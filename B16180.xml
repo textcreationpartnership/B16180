@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The courte of Venus</title>
+         </titleStmt>
+         <extent>Approx. 21KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16180</idno><idno type="EEBO-CITATION">99841769</idno>
+  <idno type="VID">176917</idno>
+  <idno type="EEBO-PROQUEST">2240899519</idno>
+  <idno type="STC">STC 24650.5</idno>
+  <idno type="STC">ESTC S106044</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99841769e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176917)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 718:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The courte of Venus</title>
+                  <author>Singleton, Robert, d. 1544.</author>
+                  <author>Wyatt, Thomas, Sir, 1503?-1542, attributed name.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Newly and diligently corrected with many proper ballades newly amended, and also added thervnto which haue not before bene imprinted.</edition>
+               </editionStmt>
+               <extent>8+ leaves   </extent>
+               <publicationStmt>
+                  <publisher>T. Marshe,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1563?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Prologue probably by Robert Singleton; some selections attributed to Sir Thomas Wyatt.--Folger Shakespeare Library Catalog.</note>
+                  <note>Imprint from STC.</note>
+                  <note>A4v/A5r headline: The court /of Venus.--STC.</note>
+                  <note>Title within ornamental border McK. &amp; F. 107.</note>
+                  <note>Some leaves marked; all after fol. 8 lacking.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176917:1"/>
+            <pb facs="tcp:176917:1"/>
+            <p>
+               <hi>THE</hi> Courte of Venus. Newly and diligently cor<g ref="char:EOLhyphen"/>rected with many pro<g ref="char:EOLhyphen"/>per Ballades newly amended, and also added thervnto which haue not before bene imprin<g ref="char:EOLhyphen"/>ted.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prologue">
+            <pb facs="tcp:176917:2"/>
+            <pb n="2" facs="tcp:176917:2"/>
+            <head>The Prologue.</head>
+            <lg>
+               <l>IN the moneth of may when the new tender grene</l>
+               <l>Hath smothly couered the ground that was bare</l>
+               <l>Poudred with flours, so wel be sene</l>
+               <l>I would haue brought my hart out of care</l>
+               <l>And as I walked in the wood so fayre</l>
+               <l>Thycke of grasse among the floures swete</l>
+               <l>And many a hoisome herbe fayre vnder the fete.</l>
+            </lg>
+            <lg>
+               <l>I heard one hunt, me thought it did blow</l>
+               <l>In a great horne of styfe sowne</l>
+               <l>At the roote of the heart, as farre as I could know</l>
+               <l>Toward the cry I had me fast bowne</l>
+               <l>And at the last, for weary I sat me downe</l>
+               <l>Thynking▪ a whyle to take my restyng</l>
+               <l>The houndes were gone out of my hearing.</l>
+            </lg>
+            <lg>
+               <l>And for that I know my selfe to be alone</l>
+               <l>And sodeinly my grefe, I beganne to complayne</l>
+               <l>Me thought I had good place, my selfe to mone</l>
+               <l>And ease my hart of myne owne payne</l>
+               <l>Besechyng Venus to lose me out of chayne</l>
+               <l>I was so fast and sure stong through the hart</l>
+               <l>Wyth the fyry chayne, that I could not start.</l>
+            </lg>
+            <lg>
+               <l>And as I was making my complaint</l>
+               <l>Of my true seruyce to my lady deare</l>
+               <l>And how nothing I was repentaunt</l>
+               <l>Saue to her presence, I was not taken nere</l>
+               <l>Genius came and asked me what cheare</l>
+               <l>Who is with Venus put in such trust</l>
+               <l>That lyke to <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ye for loue, confesse them he must.</l>
+            </lg>
+            <lg>
+               <l>Venus knew I had a woful hart</l>
+               <l>And wher we thus content she knoweth her relefe</l>
+               <l>To me therfore she send her owne clarke</l>
+               <pb facs="tcp:176917:3"/>
+               <l>To slacke my sorowes, and helpe me of my gryefe</l>
+               <l>That was so far in daunger and myschiefe</l>
+               <l>For whether I would, she knew I durst not speake</l>
+               <l>Whych caused my hart in sonder to breake.</l>
+            </lg>
+            <lg>
+               <l>I layd my head betwixt my life and death</l>
+               <l>Vpon his kne, and what he said I heard</l>
+               <l>And by that time I scarsly drew my breath</l>
+               <l>But hard his tale or I answered</l>
+               <l>It hath bene pity, him to haue disturbed</l>
+               <l>O <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>entimes he bad, that I should leaue my wo</l>
+               <l>and sayd of my dysease ther were fyue hundreth mo.</l>
+            </lg>
+            <lg>
+               <l>He bad therfore that I wyth pen and ynke</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y wyth wryting should make my complaynt</l>
+               <l>Ther shalbe a redresse, soner then ye thinke</l>
+               <l>And b<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d no more that my heart should raynt</l>
+               <l>And of our bylles, he sayd he would none want</l>
+               <l>Of them he thought to haue good comfort</l>
+               <l>And would present him selfe in Venus court.</l>
+            </lg>
+            <lg>
+               <l>For she entendeth, and that is in al hast</l>
+               <l>To surmount the parlyament as fast as can be done</l>
+               <l>And Iupiter himselfe within this day past</l>
+               <l>Hath commaunded Marcury for to be gone</l>
+               <l>Vpon his message, some cal him Stylbone</l>
+               <l>With his commission also for to compel</l>
+               <l>Mynos to come, the iudge o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dreful hel.</l>
+            </lg>
+            <lg>
+               <l>To the mount of Cethro, wher Venus doth dwel</l>
+               <l>The preparement made is so farre exceding</l>
+               <l>That of such triumphe no storyes doth tel</l>
+               <l>That is aboue al other so farre transcending</l>
+               <l>And for the whyle, she had me by copying▪</l>
+               <l>Of these complayn<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> which doth folow</l>
+               <pb n="3" facs="tcp:176917:3"/>
+               <l>And after that I should know the matter thorow</l>
+            </lg>
+            <lg>
+               <l>The whole fashion of euery thing</l>
+               <l>He would me send therfore we must be gone</l>
+               <l>O<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> matters determined, aswel as of the meting</l>
+               <l>But I besought him, or euer I were alone</l>
+               <l>That of Venus court he would interpret the fashion</l>
+               <l>Some thing to make but he would not consent</l>
+               <l>Tyl it were concluded by the parliament.</l>
+            </lg>
+            <lg>
+               <l>But thus farre he sayd he durst report</l>
+               <l>That loue without charitie, should be put downe</l>
+               <l>Nor periured persons, should no more resort</l>
+               <l>Vnto the court of Venus doth frowne</l>
+               <l>When the religion hath them bowne</l>
+               <l>And to Diana them selfe hath also sworne</l>
+               <l>And yet through Heccates in her court be borne.</l>
+            </lg>
+            <lg>
+               <l>Whom the Poets cal the gods of courtesy</l>
+               <l>That now is in so great dyspleasure</l>
+               <l>And like to be expelled for his baudry</l>
+               <l>Whych hath done mischiefe out of measure</l>
+               <l>I pocrysye is spyed for al his treasure</l>
+               <l>That he spedeth as wel as the false foxe</l>
+               <l>As that in armes, had many a bloudy boxe.</l>
+            </lg>
+            <lg>
+               <l>And Venus intendeth Diana to compel</l>
+               <l>For to supporte vnder the coulour of chastitie</l>
+               <l>No more in asking▪ but to expel</l>
+               <l>Out of her retynew inconueniently</l>
+               <l>For whose supporting she is had in ielousyt</l>
+               <l>And thus he went and bad me farewel</l>
+               <l>And at another tyme he would me moretel▪</l>
+            </lg>
+            <lg>
+               <l>And therfore I must (my reader) intreat</l>
+               <pb facs="tcp:176917:4"/>
+               <l>Desyryng you hartely to be content</l>
+               <l>For though I haue not, I wyl not forget</l>
+               <l>To describe the court, I wil deligent</l>
+               <l>And at the end of this complaynt set it</l>
+               <l>But I as nothing of myne induction</l>
+               <l>Wyl once report of Genius instruction.</l>
+            </lg>
+            <lg>
+               <l>And here foloweth, wherin you may rede</l>
+               <l>To the court of Venus a greate nomber</l>
+               <l>Their harts they say be as heauy as lead</l>
+               <l>Their sorowful wo, I am sure you wil tender</l>
+               <l>For if that I were mayden vncumber</l>
+               <l>And had such myght as she hath mone</l>
+               <l>Out of their payne they should be lettin gone.</l>
+            </lg>
+            <trailer>¶ Thus endeth the prologue, and</trailer>
+         </div>
+         <div type="poem">
+            <head>hereaf<g ref="char:EOLhyphen"/>ter foloweth the new court of Venus.</head>
+            <lg>
+               <l>MY penne take payne a lytle space</l>
+               <l>to folow the thing that doth me chase</l>
+               <l>and hath in hold, my hart so sore</l>
+               <l>And when thou hast this brought to passe:</l>
+               <l>My pen I praye the wryte no more.</l>
+            </lg>
+            <lg>
+               <l>Remember how thou hast oft pleased</l>
+               <l>And al my sorowes also eased</l>
+               <l>But now vnknowen, I knew before</l>
+               <l>That wher I trust I am deceyued</l>
+               <l>And yet my pen thou canst do no more.</l>
+            </lg>
+            <lg>
+               <l>A tyme thou hadst as other haue</l>
+               <l>To wryt whych way my hope to craue</l>
+               <l>That tyme is past, wythdraw therfore</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> lose and other saue</l>
+               <pb n="4" facs="tcp:176917:4"/>
+               <l>As good leaue of, and wryt no more,</l>
+            </lg>
+            <lg>
+               <l>And vse to worke another way</l>
+               <l>Not as ye would but as ye may</l>
+               <l>For els my lyfe is past restore</l>
+               <l>and my desire is my decay</l>
+               <l>and yet my pen now wryt no more.</l>
+            </lg>
+            <lg>
+               <l>To loue in vaine whosoeuer shal</l>
+               <l>Of worldly payne it passeth al</l>
+               <l>As in like case, I find wherfore</l>
+               <l>To hold so fast, and yet to fal</l>
+               <l>Alas my pen now wryte no more.</l>
+            </lg>
+            <lg>
+               <l>Seyng thou hast taken payne this space</l>
+               <l>To folow that whych doth me chase</l>
+               <l>and hath in hold my hart so sore</l>
+               <l>And now to haue brought this to passe</l>
+               <l>My pen I pray the to wryt no more.</l>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>MY lute awake performe the last</l>
+               <l>Labour that thou and I shal wast,</l>
+               <l>and end that I haue new begone</l>
+               <l>For when this song, is gon and past</l>
+               <l>My lute be stil for I haue done</l>
+               <l>As to be heard wher care is none</l>
+               <l>A lead to graue in a marble stone</l>
+               <l>My song may perse, heart as sone</l>
+               <l>Should we then syng, wepe or mone</l>
+               <l>No more my lute for I haue done.</l>
+            </lg>
+            <lg>
+               <l>The rocke doth not so truelly</l>
+               <l>Repulse the waues continually</l>
+               <l>As she my sute and affection.</l>
+               <pb facs="tcp:176917:5"/>
+               <l>So that I am past al remedy</l>
+               <l>Wherby my lute and I haue done</l>
+            </lg>
+            <lg>
+               <l>Proud of the splen that thou hast shot</l>
+               <l>Of symple hart, through loues got</l>
+               <l>Vnkind although thou hast them won</l>
+               <l>Thinke not he hath his owne forgot</l>
+               <l>Although my lute and I haue done.</l>
+            </lg>
+            <lg>
+               <l>Vengeaunce may fal on such dysdayne</l>
+               <l>That maketh but game of earnest paine</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>row not alone vnder the sonne</l>
+               <l>Vngently to cause to louers plaine</l>
+               <l>Although my lute and I haue done</l>
+            </lg>
+            <lg>
+               <l>And then may chaunce the to repent</l>
+               <l>The time that thou hast lost and spent</l>
+               <l>To cause thy louer to sighe and sowne</l>
+               <l>Then shalt thou know beauty but lent</l>
+               <l>And wyshe and want as I haue done</l>
+            </lg>
+            <lg>
+               <l>My lute be stil this is the last</l>
+               <l>Labour that thou and I shal wast</l>
+               <l>And end that I haue begonne</l>
+               <l>Or when this song is song and past</l>
+               <l>My lure be stil for I haue done.</l>
+            </lg>
+            <trailer>Finis,</trailer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>TO whom should I sue to ease my payne</l>
+               <l>To my mysters, nay nay certayne</l>
+               <l>For feare she should me then disdayne</l>
+               <l>I dare not sue, I dare not sue.</l>
+            </lg>
+            <lg>
+               <l>When▪ I should speake to my mystres</l>
+               <l>In hope for to get redres</l>
+               <pb n="5" facs="tcp:176917:5"/>
+               <l>When I should speake, when I shold speake</l>
+            </lg>
+            <lg>
+               <l>What hap had I that suffereth payne</l>
+               <l>And if I myght her grace attayne</l>
+               <l>Or els she would here me complayne</l>
+               <l>What hap had I, what hap had I.</l>
+            </lg>
+            <lg>
+               <l>I fly for feare to be espyed</l>
+               <l>Or of euil wil to be destroyed</l>
+               <l>The place wher I▪ would faynest abyde</l>
+               <l>I fly for feare, I fly for feare.</l>
+            </lg>
+            <lg>
+               <l>Though I wer bold who should me blame</l>
+               <l>Loue caused me to do the same</l>
+               <l>Wyth honesty it were no shame</l>
+               <l>Thouth I were bold, though I were bold.</l>
+            </lg>
+            <lg>
+               <l>And here an end, wyth ful glad wyl</l>
+               <l>In purpose for to serue her styl</l>
+               <l>And for to part thinke none yl</l>
+               <l>And here an end, and here an end.</l>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>DYsdaine me not without desert</l>
+               <l>Nor leaue me not so sodeynly</l>
+               <l>Sence wel ye wot that in my hart</l>
+               <l>I meane nothing but honesty</l>
+               <l>Dysdayne me not</l>
+               <l>Refuse me not without cause why</l>
+               <l>Nor thynke me not to be vniust</l>
+               <l>Synce that by lot of fantasye</l>
+               <l>The careful knot nedes knyt I must.</l>
+               <l>Refuse me not▪</l>
+               <l>Mystrust me not though some therbe</l>
+               <l>That fayne would spot thy stedfastnes</l>
+               <l>Beleue them not seyng that ye se</l>
+               <pb facs="tcp:176917:6"/>
+               <l>The profe is not as they expresse</l>
+               <l>Mystrust me not.</l>
+               <l>Forsake me not til I deserue</l>
+               <l>Nor hate me not til I swarue</l>
+               <l>For syth you knew what I entend.</l>
+               <l>Forsake me not.</l>
+               <l>Dysdayne me not being your owne</l>
+               <l>Refuse me not that I am so true</l>
+               <l>Mystrust me not til al be knowen</l>
+               <l>Forsake me neuer for no new</l>
+               <l>Disdayne me not.</l>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>FOrtune what ayleth the</l>
+               <l>Thus for to banyshe me</l>
+               <l>Her company whom I loue best,</l>
+               <l>For to complayne me</l>
+               <l>Nothing auayleth me</l>
+               <l>Adew farewel this nights rest.</l>
+               <l>Her demure countenaunce</l>
+               <l>Her womanly countenaunce</l>
+               <l>Hath wounded me through Venus darte,</l>
+               <l>That I cannot refrayne me</l>
+               <l>Nother yet abstayne me</l>
+               <l>But nedes must loue her withal my hart.</l>
+            </lg>
+            <lg>
+               <l>Long haue I loued her</l>
+               <l>Oft haue I proued her</l>
+               <l>Yet alas through dysdayne</l>
+               <l>Nothyng regardyng me</l>
+               <l>Nor yet rewardeth me</l>
+               <l>But letteth me lye in mortal payne.</l>
+            </lg>
+            <lg>
+               <l>Yet shal Ioue her stil</l>
+               <l>Wythal my hart and wyl</l>
+               <pb n="6" facs="tcp:176917:6"/>
+               <l>Wher soeuer I ryde or go</l>
+               <l>My hart my seruyce</l>
+               <l>Afore al ladyes</l>
+               <l>Is hers al onely and no mo</l>
+            </lg>
+            <lg>
+               <l>She hath my hart and euer shal</l>
+               <l>In this terrestial</l>
+               <l>What can she more of me require</l>
+               <l>Her whom I loue best</l>
+               <l>God send her good rest</l>
+               <l>And me hartely my whole desyre</l>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>
+                  <hi>I</hi> May by no meanes surmyse</l>
+               <l>My fantasy to resyst</l>
+               <l>But after the old gyse</l>
+               <l>To cal on had I wyst</l>
+               <l>And thought it to suffyce</l>
+               <l>That agayne I shal haue none</l>
+               <l>Yet can I not deuyse</l>
+               <l>To get agayne myne owne.</l>
+            </lg>
+            <lg>
+               <l>It is my hart that I haue lost</l>
+               <l>God send it me againe</l>
+               <l>I should it haue what euer it cost</l>
+               <l>Or els I am but slaine</l>
+               <l>I study day and night</l>
+               <l>And loud I cry and cal</l>
+               <l>To be deliuered quyte</l>
+               <l>From her that I am thral</l>
+            </lg>
+            <lg>
+               <l>And yet agaynst al right</l>
+               <l>Of force I must stil mone</l>
+               <l>For it <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oth passe my might</l>
+               <l>To get agayne myne owne▪ &amp;c.</l>
+               <pb facs="tcp:176917:7"/>
+               <l>In tormentes I am torne</l>
+               <l>That no rest find I can</l>
+               <l>None so vnhappye borne</l>
+               <l>Sence that the world began</l>
+               <l>I aske but such corne</l>
+               <l>And such sede that was sowne</l>
+               <l>And yet though I had sworne</l>
+               <l>I cannot get my owne.</l>
+               <l>But seyng that I cannot</l>
+               <l>Attayne my true desyre</l>
+               <l>Nor by no meane may not</l>
+               <l>Crepe out of the fyre</l>
+               <l>Geue ought of your owne</l>
+               <l>By reason that you should not</l>
+               <l>Let me to haue myne owne.</l>
+            </lg>
+            <trailer>Finis,</trailer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>IF fantasy would fauour</l>
+               <l>As I deserue and shal</l>
+               <l>My loue my lady paramour</l>
+               <l>should loue me best of al</l>
+            </lg>
+            <lg>
+               <l>And if I not attayne</l>
+               <l>The grace that I desire</l>
+               <l>Then may I wel complayne</l>
+               <l>My seruyce and my hier</l>
+            </lg>
+            <lg>
+               <l>Fantasy knoweth how</l>
+               <l>To forbeare my true hart</l>
+               <l>If fantasye might auow</l>
+               <l>Wyth fayth to take part</l>
+            </lg>
+            <lg>
+               <l>But fantasy is frayle</l>
+               <l>And fletynge styl so fast</l>
+               <l>that faith may not preuail</l>
+               <l>To helpe me fyrst nor last</l>
+            </lg>
+            <lg>
+               <l>Since fantasy at his luste</l>
+               <l>Doth rule al by gesse</l>
+               <l>wherto shoulde I put trust</l>
+               <l>In truth and stedfastnes.</l>
+            </lg>
+            <lg>
+               <l>Yet gladly would I please</l>
+               <l>That fantasy of my hart</l>
+               <l>That may me onely ease</l>
+               <l>and helpe my careful smart.</l>
+            </lg>
+            <lg>
+               <l>Ther<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore my lady deare</l>
+               <l>Let se your fantasy.</l>
+               <l>to make some appeare</l>
+               <l>Ot helpe and remedy</l>
+            </lg>
+            <lg>
+               <pb n="7" facs="tcp:176917:7"/>
+               <l>For if ye be my frend</l>
+               <l>And vndertake my wo</l>
+               <l>My gryefe is at an end</l>
+               <l>It ye contynew so.</l>
+            </lg>
+            <lg>
+               <l>Els fantasy doth not ryght.</l>
+               <l>As I deserue and shal</l>
+               <l>To her day and night</l>
+               <l>To loue me best of al.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>DVring of payne and greuous smart</l>
+               <l>Hath brought me lowe &amp; wōderous weake</l>
+               <l>that I cānot cōfort my hart</l>
+               <l>why sighest thou my hart &amp; wil not breake</l>
+            </lg>
+            <lg>
+               <l>The sighes and plaintes are al in vaine</l>
+               <l>the teares that from thyne eyes doth leake</l>
+               <l>This life is death, this ioy is payne</l>
+               <l>Why syghest thou hart and wil not breake</l>
+            </lg>
+            <lg>
+               <l>Thou clymest to catche wher is no hold</l>
+               <l>Thou pullest the stringes that be to weake</l>
+               <l>Thy careful lyfe cannot be told</l>
+               <l>Why syghest thou hart and wyl not breake</l>
+            </lg>
+            <lg>
+               <l>The faythfuller thou dost endure</l>
+               <l>Lesse she regarded to heare the speke</l>
+               <l>And s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yng pytye wyl the not cure</l>
+               <l>Why sighest thou hart and wil not breake.</l>
+            </lg>
+            <lg>
+               <l>As good thou were a sunder to ryue</l>
+               <l>As thus in thought thy selfe to breake</l>
+               <l>Better to dy then thus to ly<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</l>
+               <l>Why syghest thou hart and wil not breake.</l>
+            </lg>
+            <lg>
+               <l>I pray the pytye shew redresse</l>
+               <l>Or els come death thy selfe awrcake</l>
+               <l>And if thou fynd no gentlenesse</l>
+               <l>Syth no more, but hart thou breaket.</l>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:176917:8"/>
+            <lg>
+               <l>Now must I lern to faine</l>
+               <l>and do as other do</l>
+               <l>Seing no truth doth raine</l>
+               <l>That I may trust vnto</l>
+               <l>I was both true &amp; playne</l>
+               <l>To one and to no mo</l>
+               <l>And vnto me againe</l>
+               <l>Alas she was not so.</l>
+            </lg>
+            <lg>
+               <l>Vnknowē againe my hart</l>
+               <l>Into my foes hand</l>
+               <l>and euer I could astart</l>
+               <l>Out of that careful band</l>
+               <l>Al the wyt I had</l>
+               <l>Could scace the knot vndo</l>
+               <l>This careful lyfe I had</l>
+               <l>For one that was no so.</l>
+            </lg>
+            <lg>
+               <l>The night right lōg &amp; heuy</l>
+               <l>The dayes of my torment</l>
+               <l>The sighes continually</l>
+               <l>That thorow my hart wēt</l>
+               <l>My colour pale and wan</l>
+               <l>To her dyd playnly shewe</l>
+               <l>That I was her true man</l>
+               <l>And yet she thought not so</l>
+            </lg>
+            <lg>
+               <l>Out of her sight no pleasur</l>
+               <l>But to my hart gret paine</l>
+               <l>And teares out of measure</l>
+               <l>y<seg rend="sup">t</seg> out of mine eies did raine</l>
+               <l>Her absence was my death</l>
+               <l>For to depart her fro</l>
+               <l>And yet alas her fayth</l>
+               <l>Was fayned and not so.</l>
+            </lg>
+            <lg>
+               <l>Not the feuer quartayne</l>
+               <l>Doth halfe a man so shake</l>
+               <l>As dyd the wo and payne</l>
+               <l>That dayly dyd me take</l>
+               <l>No stepe could I nor rest</l>
+               <l>But tossyng to and fro</l>
+               <l>And wheras I loued best</l>
+               <l>Alas she did not so,</l>
+            </lg>
+            <lg>
+               <l>And seing it is my chaūce</l>
+               <l>My loue in vaine to wast</l>
+               <l>I am not in that daunce</l>
+               <l>The first nor yet the last</l>
+               <l>But wise he is by once</l>
+               <l>That can his foly know</l>
+               <l>To reuoke at once</l>
+               <l>Seyng she wyl no so.</l>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>LOue whom you lyst and spare not</l>
+               <l>Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rwyth I am content</l>
+               <l>Hate whom you lyst and spare not</l>
+               <l>For I am indyfferent</l>
+            </lg>
+            <lg>
+               <l>Do what you lyst and dread not</l>
+               <l>Af<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er your own<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fantasye</l>
+               <l>Thynke what you lyst and feare not</l>
+               <pb n="8" facs="tcp:176917:8"/>
+               <l>For al is one with me.</l>
+            </lg>
+            <lg>
+               <l>For as for me Iam not</l>
+               <l>Wauering as the wind</l>
+               <l>But euen as one that reketh not</l>
+               <l>Whych way you turne your mind</l>
+            </lg>
+            <lg>
+               <l>For in your loue I doubt not</l>
+               <l>But as one that reketh not</l>
+               <l>Whether you hate or hate not</l>
+               <l>Is least charge of my thought.</l>
+            </lg>
+            <lg>
+               <l>Wherfore I pray you forget not</l>
+               <l>But that I am wel content</l>
+               <l>To loue whom you list and spare not</l>
+               <l>For I am indyfferent</l>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>MEruaile no more al tho</l>
+               <l>The songes I sing do mone</l>
+               <l>For other life then woe</l>
+               <l>I neuer proued none</l>
+               <l>And in my hart also</l>
+               <l>Is grauen with letters depe</l>
+               <l>And many thousands mo</l>
+               <l>The flouds of teares to wepe.</l>
+            </lg>
+            <lg>
+               <l>How may a man in smart</l>
+               <l>Find mater to reioyce</l>
+               <l>How may a woful hart</l>
+               <l>Set forth a pleasaunt voyce</l>
+               <l>Play who can that <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epart</l>
+               <l>In me must nedes appere</l>
+               <l>How fortune ouerthwart</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:176917:9"/>
+               <l>Perdye ther is no man</l>
+               <l>If he neuer saw syght</l>
+               <l>That parfectly tel can</l>
+               <l>The nature of the light</l>
+               <l>How should I than</l>
+               <l>That neuer tasted but soure</l>
+               <l>But do as I began</l>
+               <l>Continually to loure.</l>
+            </lg>
+            <lg>
+               <l>Such chaunce perchaunce may chaunce</l>
+               <l>To cause me chaunge my tune</l>
+               <l>And when such chaunce doth chaunce</l>
+               <l>Then shal I thanke fortune</l>
+               <l>And if such chaunce do chaunce</l>
+               <l>Perchaunce or it be long</l>
+               <l>For such a pleasant chaunce</l>
+               <l>To sing some pleasant song.</l>
+            </lg>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>SHal she neuer out of my mynd</l>
+               <l>Nor shal I neuer out of my payne</l>
+               <l>Alas her ioy doth so bind</l>
+               <l>For lacke of helpe now am I slayne</l>
+            </lg>
+            <lg>
+               <l>I neuer told her of my mynd</l>
+               <l>What payne I suffer for his sake</l>
+               <l>Alas what paynes myght I now find</l>
+               <l>That no displeasure with me she take</l>
+               <l>Yf I speake fayre she sayth I flatter</l>
+               <l>And if I dare not, I shal not spede</l>
+               <l>If I to her do wryte a letter</l>
+               <l>Then will she say she cannot rede.</l>
+            </lg>
+            <lg>
+               <l>Shal I dyspayre yet <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this</l>
+               <l>Nay nay my hart wil not do so <gap reason="missing" extent="1+ pages">
+                     <desc>〈1+ pages missing〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <pb facs="tcp:176917:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
